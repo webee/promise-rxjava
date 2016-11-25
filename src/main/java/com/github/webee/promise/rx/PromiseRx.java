@@ -1,9 +1,9 @@
-package com.webee.promise.rx;
+package com.github.webee.promise.rx;
 
 
-import com.webee.promise.Deferred;
-import com.webee.promise.Promise;
-import com.webee.promise.functions.Action;
+import com.github.webee.promise.Deferred;
+import com.github.webee.promise.Promise;
+import com.github.webee.promise.functions.Action;
 import rx.Observable;
 import rx.Subscriber;
 import rx.subjects.AsyncSubject;
