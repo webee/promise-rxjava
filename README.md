@@ -1,6 +1,6 @@
 # promise-rxjava
 
-[![Release](https://img.shields.io/github/release/webee/promise-rxjava.svg?label=maven version)](https://jitpack.io/#webee/promise-rxjava)
+[![Release](https://img.shields.io/github/release/webee/promise-rxjava.svg?label=maven%20version)](https://jitpack.io/#webee/promise-rxjava)
 
 Add interoperability between promise and rxjava.
 
